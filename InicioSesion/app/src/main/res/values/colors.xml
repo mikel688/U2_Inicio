@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores base GymArt (Verde Fitness / Saludable) -->
+    <color name="primary_green">#00E676</color> <!-- Verde Neón / Lima Fitness -->
+    <color name="primary_dark_green">#00B248</color>
+    <color name="accent_lime">#76FF03</color>
+
+    <!-- Fondos y Textos -->
+    <color name="bg_dark">#121814</color> <!-- Fondo oscuro elegante -->
+    <color name="card_bg">#1E2721</color> <!-- Fondo para el contenedor -->
+    <color name="input_bg">#2A362E</color> <!-- Fondo para los campos de texto -->
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_gray">#A0AAB0</color>
+</resources>
